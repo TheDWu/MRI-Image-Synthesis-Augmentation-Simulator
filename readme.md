@@ -1,7 +1,7 @@
 # Medical Image Synthesis and Augmentation Simulator
 
 ## Introduction
-In this project, we present a medical image synthesis and augmentation simulator. The simulator generates undersampled images from high-quality images using algorithms and a Graphical User Interface (GUI) developed in Python. The implemented algorithms include image generation and two types of modifications on the images, with the simulator's results showcased.
+In this project, we present a medical image synthesis and augmentation simulator. The simulator generates undersampled images from high-quality MRI phantoms using algorithms and a Graphical User Interface (GUI) developed in Python. The implemented algorithms include image generation and two types of modifications on the images, with the simulator's results showcased.
 
 ## Objectives
 1. **MRI Acquisition:** Simulate MRI data collection.
