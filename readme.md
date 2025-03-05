@@ -65,7 +65,7 @@ Click the "Generate Final Image" button to combine Gaussian noise addition and k
 
 3. For the user to load the photo into the interface the user must press the “Load Image” button once. After that, the user can find the picture they want to use in the graph.
 
-4.The user can now select the process they want to carry out once the image has been imported into the graph. The Generate Final Image, Generate Gaussian Image, Generate Augmented Images, and Generate K-space Truncation Image buttons are available for selection by the user.
+4. The user can now select the process they want to carry out once the image has been imported into the graph. The Generate Final Image, Generate Gaussian Image, Generate Augmented Images, and Generate K-space Truncation Image buttons are available for selection by the user.
 ## Files included
 
 **Ground Truth Folder**: Contains sample brain MRI's that are loaded into the simulator
@@ -75,6 +75,7 @@ Click the "Generate Final Image" button to combine Gaussian noise addition and k
 **Presentation Video**: Demo the simulator in action
 
 **MRI Image Simulator Project Report**: A detailed report of the project objectives, methods, and algorithms
+
 
 
 
