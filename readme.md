@@ -3,7 +3,8 @@
 ## Introduction
 In this project, we present a medical image synthesis and augmentation simulator. The simulator generates undersampled images from high-quality MRI phantoms using algorithms and a Graphical User Interface (GUI) developed in Python. The implemented algorithms include image generation and two types of modifications on the images, with the simulator's results showcased.
 
-/Cover Photo.png
+/images/Cover_Photo.png
+
 ## Objectives
 1. **MRI Acquisition:** Simulate MRI data collection.
 2. **K-Space Truncation:** Perform K-Space truncation on the original image.
